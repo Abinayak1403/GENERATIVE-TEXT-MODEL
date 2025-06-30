@@ -83,10 +83,7 @@ He was wearing a red shirt, black pants, and black shoes.
 ---
 
 ## 📸 Output Screenshot
-
-![Generated Output](output3.png)
-
-> This shows a sample output generated from a GPT-2 prompt.
+![Image](https://github.com/user-attachments/assets/ac5fb9e8-89c0-46a9-be4a-e771f6519f25)
 
 ---
 
